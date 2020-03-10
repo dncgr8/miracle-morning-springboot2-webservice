@@ -1,4 +1,5 @@
 # Project exclude paths
 /.gradle/
 .idea
-
+# ignore all files in the build/ directory
+build/
